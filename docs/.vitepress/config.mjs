@@ -21,6 +21,6 @@ export default defineConfig({
       provider: 'local'
     },
   },
-  base: "/blog/",
-  head: [['link', { rel: 'icon', href: '/blog/favicon.ico' }]]
+  base: "/",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]]
 });
