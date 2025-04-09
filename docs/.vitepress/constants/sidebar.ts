@@ -12,6 +12,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = {
           text: "📚 Tutoriais",
           link: "/pages/tutoriais/",
         },
+        { text: "️🎓 Meus Cursos", link: "/pages/cursos" },
       ],
     },
   ],

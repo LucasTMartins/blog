@@ -11,3 +11,7 @@ A aba de links úteis funciona como um espaço para compartilhar ferramentas e c
 ## :books:[Tutoriais](/pages/tutoriais/)
 
 A aba de tutoriais está em estágio inicial e serve como um catálogo pessoal para guardar conceitos interessantes que considero importantes lembrar, além de oferecer alguns tutoriais curtos. Aqui, você encontrará uma seleção de conteúdos que refletem meu aprendizado e curiosidades sobre programação.
+
+## :mortar_board: [Meus Cursos](/pages/cursos/)
+
+Aqui estão meus cursos! Nesse momento você deve estar se perguntando a diferença entre os cursos e os tutoriais. Enquanto os tutoriais são conteúdos soltos e rápidos, o intuito dos cursos é ser um conteúdo mais completo e que segue uma ordem especifica, visando melhor compreensão sobre o tema abordado. Terão tanto cursos gratuitos quanto pagos.
