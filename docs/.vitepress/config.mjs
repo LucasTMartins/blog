@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 import { nav } from "./constants/nav";
 import { sidebar } from "./constants/sidebar";
 import { socialLinks } from "./constants/socialLinks";
+import { footer } from "./constants/footer";
 
 const siteTitle = "LucasTMartins";
 
@@ -20,6 +21,7 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
+    footer
   },
   base: "/",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]]
