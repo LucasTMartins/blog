@@ -246,8 +246,8 @@
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    var(--ctp-latte-mauve) 50%,
-    var(--ctp-latte-sky) 50%
+    var(--ctp-latte-sky) 50%,
+    var(--ctp-latte-mauve) 50%
   );
   --vp-home-hero-image-filter: blur(44px);
 }
@@ -262,8 +262,8 @@
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    var(--ctp-macchiato-mauve) 50%,
-    var(--ctp-macchiato-blue) 50%
+    var(--ctp-macchiato-blue) 50%,
+    var(--ctp-macchiato-mauve) 50%
   );
   --vp-home-hero-image-filter: blur(44px);
 }
