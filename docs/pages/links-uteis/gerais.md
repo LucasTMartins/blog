@@ -1,4 +1,4 @@
-# :link: Links úteis
+# :computer: Links úteis - Gerais
 
 ## :pencil2: Conteúdo para ajudar nos estudos
 
