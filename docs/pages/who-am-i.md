@@ -10,19 +10,38 @@ next: false
 ### **RESUMO**
 ___
 
-Desenvolvedor Full Stack JavaScript + ABAP desde 08/2023. Utilizei em meus trabalhos do dia a dia: JavaScript, UI5 (framework front-end), ABAP, Vite, Node.js, Programação Orientada a Objetos (POO), Git, GitHub, PostgreSQL, Docker, Linux, Shell Script, Bash.
+Desenvolvedor Full Stack JavaScript + ABAP + UI5 desde 08/2023. Utilizei em meus trabalhos do dia a dia: JavaScript, UI5 (framework front-end), ABAP, CDS View, oData, SAP RAP, Node.js, Programação Orientada a Objetos (POO), Git, GitHub, PostgreSQL, Docker.
 
 - **GitHub**: https://github.com/LucasTMartins
 - **E-mail**: lucastmartins.dev@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/lucastmartins/
 
+### **COMPETÊNCIAS TÉCNICAS**
+___
+
+- **Front-End**: UI5 | TypeScript | JavaScript | Bootstrap | ShadCN | TailwindCSS | CSS3 | HTML5.
+- **Back-End**: ABAP | oData | CDS | SAP RAP | TypeScript | JavaScript | Node.js.
+- **Banco de Dados**: Hana | PostgreSQL | PgAdmin | OpenSQL.
+- **DevOps**: Docker | Docker Compose | Git | GitHub.
+- **Outras Habilidades**: Linux | Bash.
+
 ### **EXPERIÊNCIA PROFISSIONAL**
 ___
 
-#### **Lit Solutions - Desenvolvedor Consultor ABAP Trainee**
-##### **Agosto de 2023** até **Atualmente**
+> [!TIP] Grupo VB Alimentos - Analista de Sistemas Junior
+> **Junho de 2025** até **Atualmente**
+>
+> **Conhecimentos utilizados**: JavaScript | UI5 | SAP RAP | ABAP | CDS View | OData | Programação Orientada a Objetos (ABAP) | Git | Node.js | OpenSQL.
 
-**Conhecimentos utilizados**: JavaScript | UI5 | ABAP | Programação Orientada a Objetos (ABAP) | Git | Node.js | OpenSQL.
+> [!WARNING] Lit Solutions - Desenvolvedor Consultor ABAP Junior
+> **Março de 2025** até **Maio de 2025**
+>
+> **Conhecimentos utilizados**: JavaScript | UI5 | ABAP | CDS View | OData | Programação Orientada a Objetos (ABAP) | Git | Node.js | OpenSQL.
+
+> [!IMPORTANT] Lit Solutions - Desenvolvedor Consultor ABAP Trainee
+> **Agosto de 2023** até **Fevereiro de 2025**
+>
+> **Conhecimentos utilizados**: JavaScript | UI5 | ABAP | Programação Orientada a Objetos (ABAP) | Git | Node.js | OpenSQL.
 
 ### **FORMAÇÃO ACADÊMICA**
 ___
@@ -34,14 +53,5 @@ ___
 
 - **Mundano - Software de World Building**: Web App para gestão de mundos para histórias fictícias ou não fictícias utilizando versionamento (baseado no projeto Timelinerr) para progressão da história.
 	- **Tecnologias**: TypeScript/JavaScript | React | ShadCN | TailwindCSS | PostgreSQL.
-- **Timelinerr - Software de versionamento de arquivos**: App CLI utilizado no versionamento de arquivos em uma (ou mais) linha do tempo fictícia para evolução de histórias.
-	- **Tecnologias**: TypeScript/JavaScript.
-
-### **COMPETÊNCIAS TÉCNICAS**
-___
-
-- **Front-End**: React | TypeScript | JavaScript | Bootstrap | ShadCN | TailwindCSS | CSS3 | HTML5.
-- **Back-End**: TypeScript | JavaScript | Node.js | ABAP.
-- **Banco de Dados**: PostgreSQL | PgAdmin | OpenSQL.
-- **DevOps**: Docker | Docker Compose | Git | GitHub.
-- **Outras Habilidades**: Linux | Bash.
+- **PlayAlone - Software de gerenciamento de partidas de RPG Solo**: Aplicação Web utilizada gestão de campanhas de RPG Solo, rolagem de dados, oráculo, geração aleatória de enredo.
+	- **Tecnologias**: TypeScript/JavaScript | Express | TypeORM | NodeJS | MySQL.
