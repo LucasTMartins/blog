@@ -28,7 +28,7 @@ ___
 ### **EXPERIÊNCIA PROFISSIONAL**
 ___
 
-> [!TIP] Grupo VB Alimentos - Analista de Sistemas Junior
+> [!TIP] VB Alimentos - Analista de Sistemas Junior
 > **Junho de 2025** até **Atualmente**
 >
 > **Conhecimentos utilizados**: JavaScript | UI5 | SAP RAP | ABAP | CDS View | OData | Programação Orientada a Objetos (ABAP) | Git | Node.js | OpenSQL.
