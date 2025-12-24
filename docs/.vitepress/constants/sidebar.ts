@@ -8,11 +8,6 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = {
       items: [
         { text: "️🚀 Projetos pessoais", link: "/pages/projetos/" },
         { text: "️🔗 Links úteis", link: "/pages/links-uteis" },
-        {
-          text: "📚 Tutoriais",
-          link: "/pages/tutoriais/",
-        },
-        { text: "️🎓 Meus Cursos", link: "/pages/cursos" },
       ],
     },
   ],
