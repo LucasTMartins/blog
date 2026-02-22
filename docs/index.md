@@ -9,11 +9,11 @@ hero:
 
   actions:
     - theme: brand
-      text: Explorar
-      link: /explore
+      text: Links Úteis
+      link: /pages/links-uteis
     - theme: alt
       text: Sobre mim
-      link: /pages/who-am-i
+      link: https://imlucas.dev.br/about-me/
 ---
 ___
 
